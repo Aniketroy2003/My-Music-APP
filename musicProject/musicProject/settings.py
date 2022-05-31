@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-msc7#+7si85ul#jl&drwajr04vd!@)$bg8zx^oer90wup7il(6'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['music-by-me.herokuapp.com/','127.0.0.1:8000']
 
 
 # Application definition
