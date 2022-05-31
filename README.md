@@ -6,4 +6,7 @@ An embedded link is being provided by the user which is copied from the spotify 
 popular songs by the artist which is playable online as well.
 It is hosted on the following website => https://music-by-me.herokuapp.com/
 
+
+Tech stack: Python-3.9, Django-4.0, Html5, CSS(bootstrap) ,JS
+
 # Have fun!!!
